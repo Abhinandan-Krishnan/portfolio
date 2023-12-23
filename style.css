@@ -125,7 +125,7 @@ h2{
     border: 0;
     font-weight: 500;
     display: inline-block;
-    /* visibility: hidden; */
+    
     
 }
 
@@ -297,18 +297,6 @@ a:visited {
 
 }
 
-/* .interest{
-  padding:5px;
-  width: 10%;
-  display: inline-block;
-  margin:30px;
-  height: fit-content;
-  font-family: "Open Sans,sans-serif";
-  font-kerning: normal;
-  font-feature-settings: "kern","liga","clig","calt";
-  font-weight:200;
-  font-size: 1.2em;
-} */
 
 .skills-container {
   display: grid;
